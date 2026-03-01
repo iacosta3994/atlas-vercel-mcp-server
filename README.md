@@ -1,3 +1,9 @@
+# DEPRECATED
+
+⚠️ **This repository is deprecated.** Please use https://github.com/iacosta3994/monolith_gateway instead.
+
+---
+
 # Atlas Vercel MCP Server
 
 Production-ready Model Context Protocol (MCP) server integrating with Atlas Monolith Agent architecture, featuring CRM database management, AgentMail communication, DCA decision services, OpenClaw Gateway infrastructure control, and Tailscale network management.
